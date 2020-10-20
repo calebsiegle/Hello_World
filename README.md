@@ -8,7 +8,7 @@ Currently, I am a MSBA student at the University of Iowa Tippie College of Busin
 > Github Assignment
 
 ### Description
-> Intro to setting up a Github account. 
+> Practice Repository
 
 ### Files Used
 > None
